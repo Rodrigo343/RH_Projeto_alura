@@ -1,2 +1,2 @@
 # RH_Projeto_alura
-Projeto para aplicar padrões de projeto
+Projeto criado para entedimento e aplicação dos princípios  SOLID realizados no curso 'SOLID com Java: princípios da programação orientada a objetos' da Alura.
